@@ -103,7 +103,25 @@ python main.py
 | "What is the healthcare policy of Bangladesh?" | WebSearchTool | Web-based policy summary |
 | "How many government institutions are in Rajshahi?" | InstitutionsDBTool | 223 institutions |
 
+## 📸 Example Query Output Screenshots
 
+### Query 1: List top 10 hospitals in Dhaka with bed capacity
+![Query 1.1](outputs/1.1.png)
+![Query 1.2](outputs/1.2.png)
+
+### Query 2: Which universities in Bangladesh offer medical degrees?
+![Query 2.1](outputs/2.1.png)
+![Query 2.2](outputs/2.2.png)
+
+### Query 3: Find restaurants in Chattogram serving biryani
+![Query 3](outputs/3.png)
+
+### Query 4: What is the healthcare policy of Bangladesh?
+![Query 4.1](outputs/4.1.png)
+![Query 4.2](outputs/4.2.png)
+
+### Query 5: How many government institutions are in Rajshahi?
+![Query 5](outputs/5.png)
 📄 **[View Example Query Output Screenshots](query_outputs.pdf)**
 ---
 
