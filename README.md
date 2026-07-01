@@ -122,7 +122,8 @@ python main.py
 
 ### Query 5: How many government institutions are in Rajshahi?
 ![Query 5](outputs/5.png)
-📄 **[View Example Query Output Screenshots](query_outputs.pdf)**
+
+📄 **[View Example Query Output Screenshots](outputs/query_outputs.pdf)**
 ---
 
 ## 🧠 How It Works
