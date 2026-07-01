@@ -103,6 +103,8 @@ python main.py
 | "What is the healthcare policy of Bangladesh?" | WebSearchTool | Web-based policy summary |
 | "How many government institutions are in Rajshahi?" | InstitutionsDBTool | 223 institutions |
 
+
+📄 **[View Example Query Output Screenshots](query_outputs.pdf)**
 ---
 
 ## 🧠 How It Works
