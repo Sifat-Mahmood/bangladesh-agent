@@ -1,9 +1,5 @@
 # 🇧🇩 Bangladesh Multi-Tool AI Agent
 
-**Submitted by:** Khaled Mahmood Sifat  
-**Course:** AI Engineering Boot-camp — Batch 5  
-**Assignment:** Module 22
-
 A LangChain-based AI Agent that answers queries about Bangladesh using three local SQLite databases and live web search.
 
 ---
